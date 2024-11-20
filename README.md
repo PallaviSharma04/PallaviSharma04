@@ -1,3 +1,7 @@
+
+
+
+
 - 👋 Hi there, I’m Pallavi Sharma.
 - 👀 I’m an aspiring Data Analyst passionate about uncovering insights from data.
 - 🌱 I’m currently learning to use data to solve real-world problems and contribute to impactful decision-making.
